@@ -1,0 +1,4 @@
+pcap.o: pcap.c pcap.h fill_packet.h
+fill_packet.o: fill_packet.c fill_packet.h
+arp.o: arp.c arp.h
+main.o: main.c fill_packet.h pcap.h arp.h

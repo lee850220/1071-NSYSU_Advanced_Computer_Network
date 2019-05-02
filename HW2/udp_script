@@ -1,0 +1,7 @@
+set terminal png
+set style data lines
+set xlabel "Time (seconds)"
+set ylabel "Bandwidth(Gb/s)"
+plot [00:20] "1_iperf_udp_proc" using 1:2 title "UDP1", \
+             "3_iperf_udp_proc" using 1:2 title "UDP3", \
+             "5_iperf_udp_proc" using 1:2 title "UDP5"

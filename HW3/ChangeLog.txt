@@ -1,0 +1,30 @@
+Ver. 1.0
+Multiple Client with fixed number.
+Allow username or roomname include whitespace.
+Change specified mode command.
+
+Ver. 1.1
+Change SMI Structure, add Chatroom structure.
+
+Ver. 1.2
+Change SMI Structure, add User_Fd structure.
+
+Ver. 1.3
+Add Server debugging mode.
+
+Ver. 1.4
+Add colorful output for client and server.
+
+Ver. 1.5
+Dynamic allocate resource (#chatroom, #user)
+
+Ver. 1.6
+Fix input words will diminish when get some message from server on typing.
+Fix function for "backspace" button
+
+Ver. 1.7
+Fix client over 5 will crash. (dynamic allocate problem)
+Add function for "up, down, left, right" button
+
+Known BUG:  FD_SETSIZE = 1024 (fixed in linux) (may be solve in future) 
+            Other control function will not work (no function or may cause some bugs), due to self implement output control in ver. 1.6)

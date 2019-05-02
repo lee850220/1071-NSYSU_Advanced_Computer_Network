@@ -1,0 +1,17 @@
+Ver 1.0
+ARP sniffer & spoof program with 4 command and 1 help command.
+
+1) ./arp -l -a
+2) ./arp -l <filter_ip_address>
+3) ./arp -q <query_ip_address>
+4) ./arp <fake_mac_address> <target_ip_address>
+
+Ver 1.1
+Add new command for looping spoof in command 4 with flag "-t".
+
+Ver 1.2
+Protable to Windows_NT system. (not working)
+
+Ver 1.3
+Add new command for looping spoof to specific target IP to attack.
+I.E. ./arp <fake_mac_address> <target_ip_address> <attack_ip_address>
