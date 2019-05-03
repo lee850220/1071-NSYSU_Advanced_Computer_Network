@@ -24,14 +24,14 @@ Disconnection
 Environment:  
 You can practice construct 4 host on the mininet and they can "ping" each other.
 
-To view [HW1.zip](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW1/HW1.zip) in detail. 
+Other example to view [2018 Advanced Computer Networks Homework 3.pdf](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW3/2018%20Advanced%20Computer%20Networks%20Homework%203.pdf) in detail. 
 
 - - -
 
 ## ChangeLog
 Ver. 1.0  
-Multiple Client with fixed number.
-Allow username or roomname include whitespace.
+Multiple Client with fixed number.  
+Allow username or roomname include whitespace.  
 Change specified mode command.
 
 Ver. 1.1  
@@ -50,11 +50,11 @@ Ver. 1.5
 Dynamic allocate resource (#chatroom, #user)
 
 Ver. 1.6  
-Fix input words will diminish when get some message from server on typing.
+Fix input words will diminish when get some message from server on typing.  
 Fix function for "backspace" button
 
 Ver. 1.7  
-Fix client over 5 will crash. (dynamic allocate problem)
+Fix client over 5 will crash. (dynamic allocate problem)  
 Add function for "up, down, left, right" button
 
 - - -
