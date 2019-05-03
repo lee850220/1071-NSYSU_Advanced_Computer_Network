@@ -5,3 +5,12 @@
 - Part 3: Measuring Network Bandwidth
 
 ## Homework 2
+- Part1: Mininet
+- Part2: 
+  1. tshark
+  2. tcpstat
+  3. tcpdump & tcpstat & gnuplot
+  4. mininet & iperf & gnuplot
+  5. netperf
+
+## Homework 3

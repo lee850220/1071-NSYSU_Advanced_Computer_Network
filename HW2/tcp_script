@@ -1,7 +1,0 @@
-set terminal png
-set style data lines
-set xlabel "Time (seconds)"
-set ylabel "Bandwidth(Gb/s)"
-plot [00:20] "1_iperf_tcp_proc" using 1:2 title "TCP1", \
-             "3_iperf_tcp_proc" using 1:2 title "TCP3", \
-             "5_iperf_tcp_proc" using 1:2 title "TCP5"
