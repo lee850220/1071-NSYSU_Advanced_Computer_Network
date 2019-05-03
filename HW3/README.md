@@ -60,7 +60,9 @@ Add function for "up, down, left, right" button
 - - -
 
 ## Sample Output
-!(2018-10-10_053434.PNG)
+![](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW3/2018-10-10_053434.PNG)
+
+- - -
 
 _Known BUG_
 ```
