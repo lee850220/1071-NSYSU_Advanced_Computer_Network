@@ -1,5 +1,4 @@
-# 1071-NSYSU_Advanced_Computer_Network
-This is the homework of the course.
+# Homework 1
 
 ## Part 1. Web Browsing (DNS, TCP)  
 
