@@ -45,4 +45,4 @@ Server IP : 140.117.171.208
 Read [2018 Advanced Computer Networks Homework 1.pdf](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW1/2018%20Advanced%20Computer%20Networks%20Homework%201.pdf) in detail. 
 
 
-ALL result is presented in [M073040099_TCPIP_HW1.pdf](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW1/M073040099_TCPIP_HW1.pdf). 
+ALL result is presented in [HW1.zip](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW1/HW1.zip). 
