@@ -6,6 +6,11 @@ This is the homework of the course.
 **Objective**  
 In this exercise we analyze the layered structure of network protocols using a web browsing example. We examine the header structure of the PDUs at the data link, IP, transport, and application layers. In particular we observe how addresses and port numbers work together to enable end-to-end applications.
 
+**Protocols Examined**
+- Ethernet and IP addressing
+- DNS Query and Response
+- TCP three-way handshake, sequence and ACK numbering
+
 **Procedure**  
 Read [2018 Advanced Computer Networks Homework 1.pdf](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW1/2018%20Advanced%20Computer%20Networks%20Homework%201.pdf) in detail. 
 
@@ -26,3 +31,16 @@ Protocol (ICMP):
 **Background Material**  
 PING, Traceroute commands: Consult your system documentation for information on
 using these commands. (In Ubuntu: man ping or man traceroute)
+
+**Procedure**  
+Read [2018 Advanced Computer Networks Homework 1.pdf](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW1/2018%20Advanced%20Computer%20Networks%20Homework%201.pdf) in detail. 
+
+## Part 3. Measuring Network Bandwidth
+
+**Objective**  
+In this part, we measure our network bandwidth via iperf.
+
+Server IP : 140.117.171.208
+
+**Procedure**  
+Read [2018 Advanced Computer Networks Homework 1.pdf](https://github.com/lee850220/1071-NSYSU_Advanced_Computer_Network/blob/master/HW1/2018%20Advanced%20Computer%20Networks%20Homework%201.pdf) in detail. 
