@@ -14,3 +14,4 @@
   5. netperf
 
 ## Homework 3
+Use TCP Socket to implement a chat room on the mininet.  
