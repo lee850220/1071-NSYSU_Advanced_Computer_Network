@@ -63,4 +63,3 @@ _Known BUG_
 ```
 FD_SETSIZE = 1024 (fixed in linux) (may be solve in future)   
 Other control function will not work (no function or may cause some bugs), due to self implement output control in ver. 1.6)
-
