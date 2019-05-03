@@ -59,6 +59,9 @@ Add function for "up, down, left, right" button
 
 - - -
 
+## Sample Output
+!(2018-10-10_053434.PNG)
+
 _Known BUG_
 ```
 FD_SETSIZE = 1024 (fixed in linux) (may be solve in future)   
